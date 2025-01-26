@@ -6,9 +6,11 @@ It has to run as root to intercept keystrokes regardless of app focus.
 To run it you first need to create a python venv by running:
 
 `python3 -m venv venv`
+
 Then you activate the venv with:
 
 `source venv/bin/activate`
+
 You then install the requirements with:
 
 `python3 -m pip -r requirements.txt`
